@@ -1,5 +1,5 @@
 //Gizem SÜTÇÜ
-//1306160069
+
 package kitapsatisi;
 
 import java.io.BufferedReader;
